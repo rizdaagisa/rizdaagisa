@@ -19,7 +19,7 @@ Working with several programming language
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rizdaagisa&icon=2&color=0)] (https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rizdaagisa&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
