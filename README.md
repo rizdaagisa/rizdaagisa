@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Keep find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating bot for do something.  Love very much about programming especially about data, i learning & have much knowledge about data :
+## About me
+i'd like to find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating bot for do something.  Love very much about programming especially about data, i learning & have much knowledge about data :
 
 Working with several programming language
 * Python 
@@ -10,9 +11,6 @@ Working with several programming language
 * Javascript 
 * C/C++ 
 * Query Language (Mysql, Postgres)
-
-github : https://github.com/rizdaagisa/
-instagram : https://instagram.com/rizda.agisa
 
 
 ## 🌐 Socials:
