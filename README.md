@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+Keep find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating bot for do something.  Love very much about programming especially about data, i learning & have much knowledge about data :
+
+Working with several programming language
+* Python 
+* PHP 
+* Golang
+* Java
+* Javascript 
+* C/C++ 
+* Query Language (Mysql, Postgres)
+
+github : https://github.com/rizdaagisa/
+instagram : https://instagram.com/rizda.agisa
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rizz#0070) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizda.agisa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-rizdalah-agisa-75144319) 
