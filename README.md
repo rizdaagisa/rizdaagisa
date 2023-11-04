@@ -7,8 +7,7 @@ Working with several programming language
 * Golang
 * Java
 * Javascript 
-* C/C++ 
-* Query Language (Mysql, Postgres)
+* Query Language (Mysql, Postgres, Oracle)
 
 
 ## 🌐 Socials:
