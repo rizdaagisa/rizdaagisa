@@ -9,7 +9,7 @@
 i'd like to find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating automation for do something.  love very much about programming especially about data :
 
 Working with several programming language & Framework:
-* Python (Flask, Django, Pandas)
+* Python (Flask, Django, Pandas, Selenium)
 * PHP (Laravel)
 * Golang
 * Java (Springboot)
