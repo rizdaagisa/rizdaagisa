@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizdaagisa&label=Profile%20views&color=0e75b6&style=flat" alt="rizdaagisa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizdaagisa" alt="rizdaagisa" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizdaagisa" alt="rizdaagisa" /></a> </p> -->
 
 ## Fun Fact About me 
 i'd like to find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating automation for do something.  love very much about programming especially about data :
