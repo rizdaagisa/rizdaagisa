@@ -8,13 +8,13 @@
 ## Fun Fact About me 👋
 i'd like to find the solution until problem solved or it impossible to make it happen, i like to changes manual things to make it automaticlly like automating data input & automate my daily activites or creating bot for do something.  Love very much about programming especially about data, i learning & have much knowledge about data :
 
-Working with several programming language
-* Python 
-* PHP 
+Working with several programming language & Framework
+* Python (Flask, Django, Pandas)
+* PHP (Laravel)
 * Golang
-* Java
-* Javascript 
-* Query Language (Mysql, Postgres, Oracle)
+* Java (Springboot)
+* Javascript (ReactJs)
+* Databases (Mysql, Postgres, MongoDB)
 
 
 ## 🌐 Socials:
@@ -29,16 +29,6 @@ Working with several programming language
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rizdaagisa&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-rizdalah-agisa-89079829a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-rizdalah-agisa-89079829a/" height="30" width="40" /></a>
-<a href="https://instagram.com/rizda.agisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizda.agisa" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Support:</h3>
